@@ -1,2 +1,2 @@
 # Excel
-A repository of all MS Excel prejects
+A repository of all MS Excel projects
